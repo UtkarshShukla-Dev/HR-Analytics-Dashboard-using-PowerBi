@@ -21,7 +21,7 @@ We may select the null values by clinking on column name then we can remove them
 b) The values in column BusinessTravel have an error of treating Travel Rarely and Travel_Rarely as different .So we need to replace Travel Rarely as Travel_Rarely using Replace option .
 ![Screenshot (77)](https://github.com/user-attachments/assets/e1899c6e-d32e-4c6c-8db2-6007596099b9)
 
-3)Use ![Background image](https://github.com/user-attachments/assets/242b0a63-0b22-49d6-9b00-58a6e6eb1a3f) as a background image.
+3)Use as a background image ![Background image](https://github.com/user-attachments/assets/242b0a63-0b22-49d6-9b00-58a6e6eb1a3f) 
 
 4) Start building the dashboard starting from count of employee using cards .We also created a slicer for 3 departments i.e. HR, Research and Sales
    ![Screenshot (80)](https://github.com/user-attachments/assets/7a578fc6-baea-4ec1-9503-761983a50d77)
