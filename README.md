@@ -51,6 +51,11 @@ e) Attrition count by Number of years worked : This helps to find in which year 
 f) Attrition rate by Job Role : This helps us to find out which job roles cause the most attrition .
 ![Screenshot (88)](https://github.com/user-attachments/assets/10e740ed-bb51-4954-b406-64382f55d1fc)
 
+7) The final Dashboard looks like :
+![Screenshot (89)](https://github.com/user-attachments/assets/f474c496-64fe-46bd-a056-087ad925f7e4)
+
+ 
+
 
 
 
